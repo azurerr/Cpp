@@ -1,0 +1,4 @@
+﻿  Good.cpp
+d:\seneca\oop244\oop-project\ms3\ms3\good.h(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\seneca\oop244\oop-project\ms3\ms3\good.cpp(176): warning C4390: ';': empty controlled statement found; is this the intent?
+  ms3.vcxproj -> D:\Seneca\OOP244\OOP-Project\MS3\Debug\ms3.exe
